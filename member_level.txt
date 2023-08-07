@@ -1,0 +1,20 @@
+
+
+scraper 4
+
+farmer 2
+
+seller 8
+
+user 1 or 0 based on the criteria 
+
+charities 16
+
+all 32
+
+themeing
+dark mode 
+rotation
+jwt
+bot
+dip
